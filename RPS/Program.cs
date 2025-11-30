@@ -1,6 +1,6 @@
 ﻿// // See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Let's play Rock Paper Scissors!");
+Console.WriteLine("Lets play Rock Paper Scissors!");
 
 Console.WriteLine("Player 1, provide sign (rock/paper/scissors)");
 string firstSign = Console.ReadLine()!;
